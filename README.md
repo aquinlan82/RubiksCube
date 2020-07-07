@@ -1,4 +1,5 @@
-**What is it?** Rubiks Cube Simulator. You can turn each side or rotate the entire cube. Also has a handy screen for remembering the controls and a self scrambler. Solver is currently not functioning
+**What is it?** Rubiks Cube Simulator. You can turn each side or rotate the entire cube. Also has a handy screen for remembering the controls and a self scrambler. Solver is currently not functioning. To see it in action click [here](https://youtu.be/EfHKxPL39Yk)!
+
 ![Solved Cube](exampleImages/solved.png)
 
 ![Scrambled Cube](exampleImages/scrambled.png)
